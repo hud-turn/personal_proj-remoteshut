@@ -1,0 +1,8 @@
+From: user@emailaddress.com
+To: user@emailaddress.com
+Subject: Server Shutdown
+
+The server **** has encountered an unexpected power loss
+and has automatically shut down to preserve data integrity.
+The server should power back on once power has been restored
+to the system.
