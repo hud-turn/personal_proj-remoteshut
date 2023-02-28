@@ -1,7 +1,7 @@
 import os
 
 response = None
-hostname = "78.255.255.255" #example
+hostname = "8.8.8.8" #example
 response = (os.system("ping " + hostname))
 
 #and then check the response...
