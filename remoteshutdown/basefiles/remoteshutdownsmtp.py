@@ -1,4 +1,3 @@
-import os, smtplib, ssl
 
 #Ping Variables
 hostname = "0.0.0.1"

@@ -1,4 +1,3 @@
-import os
 
 #Please note that this script is meant to be run on a Linux OS
 hostname = "192.168.1.55"
